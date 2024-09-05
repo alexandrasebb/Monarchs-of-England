@@ -85,3 +85,10 @@ GROUP BY rh.royal_house_name;
 ## Contributing
 
 Contributions to the database are welcome. Please follow the guidelines for adding data, maintaining consistency, and verifying historical accuracy.
+
+## Contact
+
+For any questions or feedback, please reach out to:
+
+Alexandra Boliver-Brown - aboliverbrown@hotmail.com  
+GitHub: [alexandrasebb](https://github.com/alexandrasebb)
